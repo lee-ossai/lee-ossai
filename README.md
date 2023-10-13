@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lee-ossai
-- 👀 I’m interested in Building the Future, one like of code at a time and Exploring the Boundaries of Science and Tech.
-- 🌱 I’m currently learning Computer Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Building the Future, one line of code at a time and Exploring the Boundaries of Science and Tech.
+- 🌱 I’m currently learning Computer Engineering.
+- 💞️ I’m looking to collaborate on projects that matter.
 - 📫 How to reach me email: princelyossai56@gmail.com
 
 <!---
